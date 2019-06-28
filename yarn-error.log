@@ -1,0 +1,39 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add egg --save
+
+PATH: 
+  C:\Users\hzzhangzhang1\bin;D:\Program Files\Git\mingw64\bin;D:\Program Files\Git\usr\local\bin;D:\Program Files\Git\usr\bin;D:\Program Files\Git\usr\bin;D:\Program Files\Git\mingw64\bin;D:\Program Files\Git\usr\bin;C:\Users\hzzhangzhang1\bin;PATH=PATH;C:\Python27;PATHEXT=PATHEXT;.PY;.PYM;C:\Program Files\Java\jdk1.7.0_67\bin;C:\Program Files\Java\jdk1.7.0_67\jre\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;D:\Program Files\Git\cmd;D:\apache-maven-3.3.9-bin\bin;D:\apache-tomcat-7.0.68-windows-x64\apache-tomcat-7.0.68\lib;D:\apache-tomcat-7.0.68-windows-x64\apache-tomcat-7.0.68\bin;D:\Program Files\OpenVPN\bin;C:\Program Files\OpenVPN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6;C:\Program Files\Microsoft VS Code\bin;D:\nodejs;C:\Program Files\nodejs;C:\Program Files (x86)\Yarn\bin;C:\Program Files\nodejs;C:\Program Files\Microsoft VS Code\bin;E:\JavaScript\flutter\bin;D:\nodejs;C:\Program Files\nodejs;C:\Users\hzzhangzhang1\AppData\Local\Yarn\bin;C:\Users\hzzhangzhang1\AppData\Roaming\npm;D:\Program Files\Git\usr\bin\vendor_perl;D:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.16.0
+
+Node version: 
+  10.15.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: unable to verify the first certificate
+      at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+      at TLSSocket.emit (events.js:189:13)
+      at TLSSocket._finishInit (_tls_wrap.js:633:8)
+
+npm manifest: 
+  {
+    "name": "egg",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

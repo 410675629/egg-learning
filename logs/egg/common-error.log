@@ -1,0 +1,60 @@
+2019-06-28 17:48:40,762 ERROR 17608 [-/127.0.0.1/-/4ms GET /api/posts/new] nodejs.ReferenceError: ctx is not defined
+    at Object.exports.new (D:\2019\egg\app\controller\posts.js:6:5)
+    at Object.callFn (D:\2019\egg\node_modules\_egg-core@4.17.2@egg-core\lib\utils\index.js:44:21)
+    at Object.objectControllerMiddleware (D:\2019\egg\node_modules\_egg-core@4.17.2@egg-core\lib\loader\mixin\controller.js:115:26)
+    at Object.callFn (D:\2019\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\2019\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\2019\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\2019\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\2019\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\2019\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\2019\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 17608
+hostname: HIH-D-8750
+
+2019-06-28 17:48:54,136 ERROR 17608 [-/127.0.0.1/-/2ms GET /api/posts/new] nodejs.ReferenceError: ctx is not defined
+    at Object.exports.new (D:\2019\egg\app\controller\posts.js:6:5)
+    at Object.callFn (D:\2019\egg\node_modules\_egg-core@4.17.2@egg-core\lib\utils\index.js:44:21)
+    at Object.objectControllerMiddleware (D:\2019\egg\node_modules\_egg-core@4.17.2@egg-core\lib\loader\mixin\controller.js:115:26)
+    at Object.callFn (D:\2019\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\2019\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\2019\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\2019\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\2019\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\2019\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\2019\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 17608
+hostname: HIH-D-8750
+
+2019-06-28 17:48:54,966 ERROR 17608 [-/127.0.0.1/-/0ms GET /api/posts/new] nodejs.ReferenceError: ctx is not defined
+    at Object.exports.new (D:\2019\egg\app\controller\posts.js:6:5)
+    at Object.callFn (D:\2019\egg\node_modules\_egg-core@4.17.2@egg-core\lib\utils\index.js:44:21)
+    at Object.objectControllerMiddleware (D:\2019\egg\node_modules\_egg-core@4.17.2@egg-core\lib\loader\mixin\controller.js:115:26)
+    at Object.callFn (D:\2019\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\2019\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\2019\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\2019\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\2019\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\2019\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\2019\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 17608
+hostname: HIH-D-8750
+
+2019-06-28 17:48:55,388 ERROR 17608 [-/127.0.0.1/-/0ms GET /api/posts/new] nodejs.ReferenceError: ctx is not defined
+    at Object.exports.new (D:\2019\egg\app\controller\posts.js:6:5)
+    at Object.callFn (D:\2019\egg\node_modules\_egg-core@4.17.2@egg-core\lib\utils\index.js:44:21)
+    at Object.objectControllerMiddleware (D:\2019\egg\node_modules\_egg-core@4.17.2@egg-core\lib\loader\mixin\controller.js:115:26)
+    at Object.callFn (D:\2019\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\2019\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\2019\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\2019\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\2019\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\2019\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\2019\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 17608
+hostname: HIH-D-8750
+
